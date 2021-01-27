@@ -1,4 +1,4 @@
-package com.whir.component.export.excel;
+package com.cjsuo.export.excel;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -36,9 +36,7 @@ import org.xml.sax.InputSource;
 import com.whir.common.util.CommonUtils;
 
 /**
- * Excel导出
- * 
- * @author whir
+ * Excel导出工具类
  * 
  */
 public class ExcelExport {
